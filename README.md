@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|2|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
+|1|221.140.235.237|5001|South Korea|Seo-gu|SK Broadband Co Ltd|
+|2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
-|5|172.183.241.1|8080|United States|Chicago|Microsoft|
-|6|172.183.241.1|8080|United States|Chicago|Microsoft|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|200.70.56.203|3128|Argentina|Buenos Aires|Telefonica de Argentina|
-|10|103.153.63.211|8085|Indonesia|Bekasi|IMEDIANET|
-|11|62.176.12.111|8080|Russia|Moscow|Rial Com JSC|
-|12|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|67.43.227.227|13727|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.86|9443|United States|Huntersville|MCNC|
-|16|72.10.160.170|6551|Canada|Montreal|GloboTech Communications|
-|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.145.14.56|8080|Indonesia|Cirebon|PT Pembangunan Sarana Telematika|
+|6|221.140.235.236|5002|South Korea|Seo-gu|SK Broadband Co Ltd|
+|7|125.17.13.54|3129|India|Bengaluru|Bharti Airtel Limited|
+|8|41.220.134.11|8080|Tanzania|Usa River|Habari Node Ltd|
+|9|31.45.237.146|8080|Croatia|Zagreb|A1 Hrvatska d.o.o.|
+|10|80.82.55.71|80|Russia|Voronezh|CenterTelecom Voronezh ISP|
+|11|152.26.229.86|9443|United States|Huntersville|MCNC|
+|12|72.10.160.170|25989|Canada|Montreal|GloboTech Communications|
+|13|125.17.13.54|3129|India|Bengaluru|Bharti Airtel Limited|
+|14|67.43.227.227|27159|Canada|Montreal|GloboTech Communications|
+|15|39.129.73.6|443|China|Kunming|China Mobile|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|72.10.164.178|4483|Canada|Montreal|GloboTech Communications|
 |18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|67.43.227.227|13727|Canada|Montreal|GloboTech Communications|
+|19|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|37.204.209.198|8080|Russia|Moscow|NCNET|
 
 
 
