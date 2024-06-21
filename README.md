@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|20.235.159.154|80|India|Chennai|Microsoft Corporation|
+|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|189.240.60.163|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|95.31.138.233|8080|Russia|Moscow|CORBINA|
 |7|45.79.43.178|6969|United States|Richardson|Akamai Technologies, Inc.|
-|8|172.183.241.1|8080|United States|Chicago|Microsoft|
-|9|172.183.241.1|8080|United States|Chicago|Microsoft|
-|10|200.24.131.126|999|Ecuador|Guayaquil|Negocios Y Telefonia Nedetel S.A|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|43.243.141.12|8080|Indonesia|Pisangan|CEPATNET|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|15|170.82.13.121|3600|Brazil|Porto Seguro|Netcenter Telecom|
-|16|152.26.229.86|9443|United States|Huntersville|MCNC|
-|17|111.89.130.51|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
-|18|67.43.227.227|32401|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|19471|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|19471|Canada|Montreal|GloboTech Communications|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|152.26.229.86|9443|United States|Huntersville|MCNC|
+|11|111.89.130.51|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
+|12|72.10.160.90|7107|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|32137|Canada|Montreal|GloboTech Communications|
+|14|51.145.176.250|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|203.190.113.167|8071|Indonesia|Jakarta|PT Union Routelink Communication|
+|17|177.93.51.213|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|18|67.43.227.227|6269|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|17875|Canada|Montreal|GloboTech Communications|
+|20|111.89.130.100|3128|Japan|Shinjuku|NTT PC Communications, Inc.|
 
 
 
